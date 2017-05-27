@@ -1,2 +1,2 @@
 # OprekDroid
-App oprek sgy
+App
